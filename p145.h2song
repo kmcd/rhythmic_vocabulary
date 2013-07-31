@@ -1912,7 +1912,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>96</position>
+     <position>120</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1973,12 +1973,11 @@
   <group>
    <patternID>clave timeline 1</patternID>
    <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
   </group>
   <group>
+   <patternID>clave timeline 1</patternID>
    <patternID>bass pulse</patternID>
    <patternID>shaker beats</patternID>
-   <patternID>clave timeline 2</patternID>
   </group>
  </patternSequence>
  <ladspa>

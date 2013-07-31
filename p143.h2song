@@ -1912,7 +1912,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>96</position>
+     <position>144</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
