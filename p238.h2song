@@ -1857,7 +1857,7 @@
    <size>192</size>
    <noteList>
     <note>
-     <position>24</position>
+     <position>0</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1881,7 +1881,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>144</position>
+     <position>120</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
