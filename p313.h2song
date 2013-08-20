@@ -2166,40 +2166,14 @@
  <virtualPatternList/>
  <patternSequence>
   <group>
-   <patternID>clave timeline 1</patternID>
-   <patternID>Pattern 5</patternID>
    <patternID>bass pulse</patternID>
    <patternID>shaker beats</patternID>
-  </group>
-  <group>
    <patternID>clave timeline 2</patternID>
-   <patternID>Pattern 6</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
   </group>
   <group>
+   <patternID>bass pulse</patternID>
+   <patternID>shaker beats</patternID>
    <patternID>Pattern 4</patternID>
-   <patternID>Pattern 5</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>clave timeline 1</patternID>
-   <patternID>Pattern 6</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>clave timeline 2</patternID>
-   <patternID>Pattern 5</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 6</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
   </group>
  </patternSequence>
  <ladspa>

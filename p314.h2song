@@ -1972,19 +1972,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>120</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>10</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>168</position>
+     <position>144</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -2070,7 +2058,7 @@
    <size>192</size>
    <noteList>
     <note>
-     <position>0</position>
+     <position>96</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -2078,11 +2066,11 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>9</instrument>
+     <instrument>10</instrument>
      <note_off>false</note_off>
     </note>
     <note>
-     <position>72</position>
+     <position>120</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -2090,11 +2078,11 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>9</instrument>
+     <instrument>10</instrument>
      <note_off>false</note_off>
     </note>
     <note>
-     <position>144</position>
+     <position>168</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -2102,7 +2090,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>9</instrument>
+     <instrument>10</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -2166,40 +2154,14 @@
  <virtualPatternList/>
  <patternSequence>
   <group>
-   <patternID>clave timeline 1</patternID>
-   <patternID>Pattern 5</patternID>
    <patternID>bass pulse</patternID>
    <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>clave timeline 2</patternID>
-   <patternID>Pattern 6</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
    <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>bass pulse</patternID>
+   <patternID>shaker beats</patternID>
    <patternID>Pattern 5</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>clave timeline 1</patternID>
-   <patternID>Pattern 6</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>clave timeline 2</patternID>
-   <patternID>Pattern 5</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 6</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker beats</patternID>
   </group>
  </patternSequence>
  <ladspa>
