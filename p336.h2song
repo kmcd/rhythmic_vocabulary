@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>0.9.6-beta1</version>
- <bpm>50</bpm>
+ <bpm>55</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
@@ -1833,18 +1833,6 @@
    <size>96</size>
    <noteList>
     <note>
-     <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>10</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
      <position>16</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
@@ -1857,31 +1845,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>32</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
      <position>48</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>64</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1901,7 +1865,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -1912,7 +1876,7 @@
    <size>96</size>
    <noteList>
     <note>
-     <position>32</position>
+     <position>16</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1920,7 +1884,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1936,18 +1900,6 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>64</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
      <position>80</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
@@ -1956,7 +1908,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>11</instrument>
+     <instrument>10</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -1967,18 +1919,6 @@
    <size>96</size>
    <noteList>
     <note>
-     <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>10</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
      <position>16</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
@@ -1987,11 +1927,11 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
-     <position>64</position>
+     <position>48</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1999,7 +1939,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -2022,31 +1962,7 @@
    <size>96</size>
    <noteList>
     <note>
-     <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
      <position>16</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>32</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -2066,7 +1982,19 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>80</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -2198,8 +2126,8 @@
   </group>
   <group>
    <patternID>shaker all</patternID>
-   <patternID>clave timeline 2</patternID>
    <patternID>bass pulse</patternID>
+   <patternID>clave timeline 2</patternID>
    <patternID>Pattern 7</patternID>
   </group>
   <group>
@@ -2211,8 +2139,8 @@
   <group>
    <patternID>shaker all</patternID>
    <patternID>bass pulse</patternID>
-   <patternID>Pattern 5</patternID>
    <patternID>Pattern 7</patternID>
+   <patternID>Pattern 5</patternID>
   </group>
  </patternSequence>
  <ladspa>
