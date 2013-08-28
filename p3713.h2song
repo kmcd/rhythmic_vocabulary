@@ -1889,7 +1889,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1901,7 +1901,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1913,7 +1913,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1925,7 +1925,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>10</instrument>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
