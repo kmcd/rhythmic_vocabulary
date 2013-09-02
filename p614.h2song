@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>0.9.6-beta1</version>
- <bpm>50</bpm>
+ <bpm>65</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
@@ -241,6 +241,226 @@
     <max>0.491453</max>
     <gain>1</gain>
     <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>10</id>
+   <name>Woodblock Hi</name>
+   <volume>0.659483</volume>
+   <isMuted>false</isMuted>
+   <pan_L>0.4</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Softest.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>0.17029</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Soft.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.166667</min>
+    <max>0.376812</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Med.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.376812</min>
+    <max>0.557971</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hard.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.561594</min>
+    <max>0.73913</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hardest.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.746377</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>11</id>
+   <name>Woodblock Lo</name>
+   <volume>0.737069</volume>
+   <isMuted>false</isMuted>
+   <pan_L>0.4</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Softest.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>0.195652</max>
+    <gain>1</gain>
+    <pitch>-3</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Soft.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.188406</min>
+    <max>0.369565</max>
+    <gain>1</gain>
+    <pitch>-3</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Med.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.369565</min>
+    <max>0.568841</max>
+    <gain>1</gain>
+    <pitch>-3</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hard.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.561594</min>
+    <max>0.75</max>
+    <gain>1</gain>
+    <pitch>-3</pitch>
+   </layer>
+   <layer>
+    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hardest.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0.753623</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>-3</pitch>
    </layer>
   </instrument>
   <instrument>
@@ -1276,226 +1496,6 @@
    </layer>
   </instrument>
   <instrument>
-   <id>10</id>
-   <name>Woodblock Hi</name>
-   <volume>0.659483</volume>
-   <isMuted>false</isMuted>
-   <pan_L>0.4</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Softest.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>0.17029</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Soft.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.166667</min>
-    <max>0.376812</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Med.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.376812</min>
-    <max>0.557971</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hard.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.561594</min>
-    <max>0.73913</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hardest.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.746377</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>11</id>
-   <name>Woodblock Lo</name>
-   <volume>0.737069</volume>
-   <isMuted>false</isMuted>
-   <pan_L>0.4</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Softest.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>0.195652</max>
-    <gain>1</gain>
-    <pitch>-3</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Soft.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.188406</min>
-    <max>0.369565</max>
-    <gain>1</gain>
-    <pitch>-3</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Med.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.369565</min>
-    <max>0.568841</max>
-    <gain>1</gain>
-    <pitch>-3</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hard.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.561594</min>
-    <max>0.75</max>
-    <gain>1</gain>
-    <pitch>-3</pitch>
-   </layer>
-   <layer>
-    <filename>/Users/kmcd/Library/Application Support/Hydrogen/drumkits/Gimme A Hand 1.0/WoodBlock-Hardest.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0.753623</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>-3</pitch>
-   </layer>
-  </instrument>
-  <instrument>
    <id>12</id>
    <name>WaterglassHi</name>
    <volume>0.737069</volume>
@@ -1845,19 +1845,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>16</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>48</position>
+     <position>32</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1866,6 +1854,18 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>10</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>64</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1900,19 +1900,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>16</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>11</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>48</position>
+     <position>32</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1921,6 +1909,18 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>10</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>64</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1982,16 +1982,6 @@
  </patternList>
  <virtualPatternList/>
  <patternSequence>
-  <group>
-   <patternID>bass pulse</patternID>
-   <patternID>shaker all</patternID>
-   <patternID>clave timeline 1</patternID>
-  </group>
-  <group>
-   <patternID>shaker all</patternID>
-   <patternID>bass pulse</patternID>
-   <patternID>clave timeline 2</patternID>
-  </group>
   <group>
    <patternID>bass pulse</patternID>
    <patternID>shaker all</patternID>
