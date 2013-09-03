@@ -501,7 +501,7 @@
    <id>8</id>
    <name>Cowbell</name>
    <volume>0.443793</volume>
-   <isMuted>false</isMuted>
+   <isMuted>true</isMuted>
    <pan_L>1</pan_L>
    <pan_R>0.52</pan_R>
    <gain>1</gain>

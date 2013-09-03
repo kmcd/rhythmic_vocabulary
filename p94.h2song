@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>0.9.6-beta1</version>
- <bpm>110</bpm>
+ <bpm>90</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
@@ -501,7 +501,7 @@
    <id>8</id>
    <name>Cowbell</name>
    <volume>0.443793</volume>
-   <isMuted>false</isMuted>
+   <isMuted>true</isMuted>
    <pan_L>1</pan_L>
    <pan_R>0.52</pan_R>
    <gain>1</gain>
@@ -1828,7 +1828,7 @@
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.97</velocity>
+     <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1840,7 +1840,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.96</velocity>
+     <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2132,11 +2132,13 @@
    <patternID>clave timeline 1</patternID>
    <patternID>bass pulse</patternID>
    <patternID>shaker beats</patternID>
+   <patternID>Pattern 4</patternID>
   </group>
   <group>
    <patternID>bass pulse</patternID>
    <patternID>shaker beats</patternID>
    <patternID>clave timeline 2</patternID>
+   <patternID>Pattern 5</patternID>
   </group>
  </patternSequence>
  <ladspa>
