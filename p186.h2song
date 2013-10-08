@@ -611,7 +611,7 @@
    <id>14</id>
    <name>BassDrum</name>
    <volume>0.98</volume>
-   <isMuted>false</isMuted>
+   <isMuted>true</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
@@ -687,7 +687,7 @@
    <id>15</id>
    <name>Kick</name>
    <volume>1</volume>
-   <isMuted>false</isMuted>
+   <isMuted>true</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
    <gain>1</gain>
